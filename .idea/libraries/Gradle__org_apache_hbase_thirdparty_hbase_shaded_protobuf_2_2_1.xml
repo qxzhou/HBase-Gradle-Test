@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.hbase.thirdparty:hbase-shaded-protobuf:2.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hbase.thirdparty/hbase-shaded-protobuf/2.2.1/8cf5d7fbfac551e096912eab32129c9ea601875a/hbase-shaded-protobuf-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hbase.thirdparty/hbase-shaded-protobuf/2.2.1/f0ac973dc1f0171130fbe75271e3e72cf1f77eac/hbase-shaded-protobuf-2.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

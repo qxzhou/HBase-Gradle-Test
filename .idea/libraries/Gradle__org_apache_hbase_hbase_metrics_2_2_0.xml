@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.hbase:hbase-metrics:2.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hbase/hbase-metrics/2.2.0/b9e30ea18d04dfa2f186ee1ca37b8b61f88327c7/hbase-metrics-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hbase/hbase-metrics/2.2.0/437ca2ccde28c442b09e4f013be5635554c1e0f4/hbase-metrics-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

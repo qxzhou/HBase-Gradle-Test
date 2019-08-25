@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.hbase.thirdparty:hbase-shaded-netty:2.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hbase.thirdparty/hbase-shaded-netty/2.2.1/61f8563ceebc90aa6100c4863f6ab6c8181e11e9/hbase-shaded-netty-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hbase.thirdparty/hbase-shaded-netty/2.2.1/3247e3bae6f7587e828a8d6d26f7e994fe9a2ff9/hbase-shaded-netty-2.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

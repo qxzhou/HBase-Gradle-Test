@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.hbase:hbase-protocol-shaded:2.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hbase/hbase-protocol-shaded/2.2.0/b5e1b94940e97b1dd658269f5285563c3b3cb361/hbase-protocol-shaded-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hbase/hbase-protocol-shaded/2.2.0/7622bbc4d4994fc5d47cffa20da60f3fd945adcd/hbase-protocol-shaded-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
